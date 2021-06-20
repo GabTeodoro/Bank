@@ -1,0 +1,16 @@
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Bank/bin/Debug/net5.0/Bank
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Bank/bin/Debug/net5.0/Bank.deps.json
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Bank/bin/Debug/net5.0/Bank.runtimeconfig.json
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Bank/bin/Debug/net5.0/Bank.runtimeconfig.dev.json
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Bank/bin/Debug/net5.0/Bank.dll
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Bank/bin/Debug/net5.0/ref/Bank.dll
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Bank/bin/Debug/net5.0/Bank.pdb
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Bank/obj/Debug/net5.0/Bank.csprojAssemblyReference.cache
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Bank/obj/Debug/net5.0/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Bank/obj/Debug/net5.0/Bank.AssemblyInfoInputs.cache
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Bank/obj/Debug/net5.0/Bank.AssemblyInfo.cs
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Bank/obj/Debug/net5.0/Bank.csproj.CoreCompileInputs.cache
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Bank/obj/Debug/net5.0/Bank.dll
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Bank/obj/Debug/net5.0/ref/Bank.dll
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Bank/obj/Debug/net5.0/Bank.pdb
+/home/gabriel/work_spaces/pessoal/c#/BootCampDotNet/Bank/obj/Debug/net5.0/Bank.genruntimeconfig.cache
